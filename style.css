@@ -19,10 +19,22 @@ header {
     font-size: 12px;
 }
 
-span {
+.autore {
     color: rgb(0, 191, 255);
 }
 
 .description {
     font-size: 12px;
+}
+
+.table {
+    background-color: rgba(0, 229, 255, 0.793);
+}
+
+.markup {
+    background-color: gold;
+}
+
+thead {
+    background-color: rgb(100, 132, 237);
 }
