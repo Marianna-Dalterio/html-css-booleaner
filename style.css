@@ -1,9 +1,28 @@
 header {
     background-image: url(IMG/pattern.png);
-    background-color: rgb(0, 119, 255);
-    padding: 100px;
+    background-color: rgb(0, 162, 255);
+    background-size: 30%;
+    padding-top: 40px;
+    padding-bottom: 5px;
+    padding-left: 0;
+
 }
 
 #logo {
     height: 50px;
+    width: 240px;
+
+}
+
+.greytext {
+    color: darkgrey;
+    font-size: 12px;
+}
+
+span {
+    color: rgb(0, 191, 255);
+}
+
+.description {
+    font-size: 12px;
 }
