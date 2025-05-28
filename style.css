@@ -16,7 +16,7 @@ header {
 
 .greytext {
     color: darkgrey;
-    font-size: 12px;
+    font-size: 13px;
 }
 
 .autore {
@@ -37,4 +37,14 @@ header {
 
 thead {
     background-color: rgb(100, 132, 237);
+}
+
+#interessarti1 {
+    color: white;
+    background-image: url(IMG/monitor.jpg);
+}
+
+#interessarti2 {
+    color: white;
+    background-image: url(IMG/graph.jpg);
 }
