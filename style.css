@@ -41,10 +41,21 @@ thead {
 
 #interessarti1 {
     color: white;
+    font-size: 16px;
     background-image: url(IMG/monitor.jpg);
+    height: 208px;
+    width: 312px;
 }
 
 #interessarti2 {
     color: white;
+    font-size: 16px;
     background-image: url(IMG/graph.jpg);
+    height: 207px;
+    width: 311px;
+
+}
+
+body {
+    margin: 0;
 }
